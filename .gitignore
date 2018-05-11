@@ -1,1 +1,4 @@
 Web_Scraper/csv/
+.ipynb_checkpoints/
+*~
+*.swp
