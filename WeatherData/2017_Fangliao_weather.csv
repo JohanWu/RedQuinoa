@@ -1,4 +1,4 @@
-,觀測時間(LST)ObsTime,測站氣壓(hPa)StnPres,海平面氣壓(hPa)SeaPres,氣溫(℃)Temperature,露點溫度(℃)Td dew point,相對溼度(%)RH,風速(m/s)WS,風向(360degree)WD,最大陣風(m/s)WSGust,最大陣風風向(360degree)WDGust,降水量(mm)Precp,降水時數(hr)PrecpHour,日照時數(hr)SunShine,全天空日射量(MJ/㎡)GloblRad,能見度(km)Visb
+﻿,觀測時間(LST)ObsTime,測站氣壓(hPa)StnPres,海平面氣壓(hPa)SeaPres,氣溫(℃)Temperature,露點溫度(℃)Td dew point,相對溼度(%)RH,風速(m/s)WS,風向(360degree)WD,最大陣風(m/s)WSGust,最大陣風風向(360degree)WDGust,降水量(mm)Precp,降水時數(hr)PrecpHour,日照時數(hr)SunShine,全天空日射量(MJ/㎡)GloblRad,能見度(km)Visb
 0,2017-01-01 00:00,1020.6,,19.3,,,0.0,0,,,0.0,,,,
 1,2017-01-01 01:00,1020.3,,19.5,,,0.6,78,,,0.0,,,,
 2,2017-01-01 02:00,1019.7,,18.8,,,0.0,0,,,0.0,,,,
